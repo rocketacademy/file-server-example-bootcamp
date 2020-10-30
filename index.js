@@ -1,7 +1,7 @@
 import { createServer } from 'http';
 import { readFile } from 'fs';
 
-const PORT = 3004;
+const PORT = process.argv[2];
 
 const whenIncomingRequest = (request, response) => {
   console.log('request url', request.url);

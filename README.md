@@ -1,3 +1,1 @@
-# SWE1: Software Engineering Foundations
-
-# Basic File Server Example Repo
+# Rocket Academy Coding Bootcamp: File Server Example
